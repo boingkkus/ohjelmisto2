@@ -1,0 +1,28 @@
+.box {
+  width: 180px;
+  padding: 20px;
+  border: 2px solid #885de6;
+  margin: 20px;
+  background-color: #5ccbf070;
+}
+.flex-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  padding: 20px;
+  background-color: rgba(246, 162, 88, 0.493);
+  border: 2px solid #fd6a6a;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.grid-item {
+  padding: 20px;
+  background-color: rgba(144, 238, 144, 0.555);
+  border: 2px solid #51924d;
+}

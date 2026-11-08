@@ -17,3 +17,15 @@ yhteensä 12p
 Tehtävässä 4 en saanut else if ja else -toimintoja tehtyä oikein. 
 
 ---
+
+js-moduuli 3
+
+tehdyt tehtävät:
+
+- Tehtävä 1: 2p
+- Tehtävä 2: 2p
+- Tehtävä 3: 2p
+- Tehtävä 4: 
+- Tehtävä 8: 2p
+
+yhteensä 8p

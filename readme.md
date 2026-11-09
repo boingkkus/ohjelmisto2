@@ -25,7 +25,7 @@ tehdyt tehtävät:
 - Tehtävä 1: 2p
 - Tehtävä 2: 2p
 - Tehtävä 3: 2p
-- Tehtävä 4: 
+- Tehtävä 4: 2p
 - Tehtävä 8: 2p
 
-yhteensä 8p
+yhteensä 10p
